@@ -1,0 +1,121 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Subhash profile</title>
+</head>
+<body>
+
+    <div>
+
+        <div>
+
+            <h1><b>Subhash Kumar</b></h1> 
+            <p><b>Contact:-</b><a href="https://www.gmail.com" target="_blank">Subhash7042848121@gmail.com</a></p>
+            <p><b>Linkdin:-</b> <a href="https://www.Linkdine.com" target="_blank">linkedin.com/in/subhash-782513257</a></p>
+            <p><b>GitHub:-</b> <a href="https://www.guithub.com" target="_blank">github.com/Subhashdrx2002</a></p>
+
+
+        </div>
+
+        <table>
+            <tr>
+                <td> <img src="images/Subhash.jpg" 
+                    alt="Subhash pic"
+                    width="200x">
+
+                </td>
+
+                <td>
+                    <big>
+                        I am  2nd year student at <b>Netaji Subhas University of Technology</b> , pursuing a B.Tech in <b>Instrumentation and Controlling Engineering.</b> I am passionate about learning new technologies and applying them to solve real-world problems.
+                       I have a strong foundation in , <b>Python, and C</b>. 
+                      In my spare time, I enjoy working on coding projects, contributing to open source projects, and attending meetups and conferences. I am also an active member of the programming community on social media.
+        
+        I am looking for opportunities to use my skills and passion to make a positive impact on the world. I am confident that I can contribute to the field of engineering and technology, and I am excited to see what the future holds.
+        <br>
+        <b> Skills:-</b>
+       
+        <br>
+        <b> Programming Languages:</b>
+        <b>Python, and C#</b>
+        <br>
+        <b>
+            Goals:-
+        </b>
+        
+        <br>
+        
+                    To become a software engineer and work on cutting-edge technologies.
+                    To contribute to open source projects and help others learn.
+                  To make a positive impact on the world through technology.
+        </big>
+                </td>
+               
+            
+               
+               
+            </tr>
+
+        </table>
+
+        <section>
+            <h1>Education</h1>
+
+            <ul>
+                <li>Bachelor of Technology in Instrumentation and control engineering (ICE), Netaji Subhas University of Technology (NSUT)</li>
+                <li>Govt Boys Sr sec School prashant vihar</li>
+
+
+            </ul>
+        </section>
+
+        <section>
+            <h2>
+                Work Experience
+            </h2>
+
+            <h3>
+                Digital Marketing Intern
+            </h3>
+            <p>jun 23 - jun 23 </p>
+            <ul>
+                <p>Roles and responsibilities of an ISP:</p>
+                <li>Motivating students to go for online Internshala Trainings and help them to upskill themselves </li>
+                <li>Promoting Internshala campaigns in your college and helping students to find their dream 
+                    internships & jobs</li>
+                <li>Participating in social media branding campaigns and learn how to communicate for a brand online</li>
+            </ul>
+
+                <H4><big>Project Intern</big></H4>
+                <p>july 23 - july 23 </p>
+                <ul>
+                    <li>Identify trends and patterns</li>
+                    <li>Make better decisions</li>
+                    <li>Improve communication</li>
+                    <li>Increase customer engagement</li>
+                    
+                </ul>
+        </section>
+
+        <section>
+            <h5><big>Skills</big></h5>
+            <ul>
+                <li>Java</li>
+                <li>Python</li>
+                <li>C</li>
+                <li>Dsa</li>
+                <li>Html</li>
+            </ul>
+        </section>
+
+
+
+
+
+
+
+    </div>
+    
+</body>
+</html>
